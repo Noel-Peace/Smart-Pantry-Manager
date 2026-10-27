@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#2E7D32</color>
+    <color name="primary_variant">#1B5E20</color>
+    <color name="secondary">#EF6C00</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <color name="screen_background">#F5F7F5</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#616161</color>
+    <color name="ok_green">#2E7D32</color>
+    <color name="warn_red">#C62828</color>
+    <color name="warn_orange">#E65100</color>
+    <color name="banner_background">#FFF3E0</color>
+</resources>
